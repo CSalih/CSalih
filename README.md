@@ -1,6 +1,6 @@
 # My profile
 
-![Ims](img/code.png)
+![dev](https://raw.githubusercontent.com/CSalih/CSalih/master/img/code.png)
 
 **Hi guys** :wave:,  
 I'm Salih :bowtie: currently a Third Year Computer Science student :computer: at the University Innsbruck :school:. 
