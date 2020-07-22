@@ -10,6 +10,6 @@ I'm Salih :bowtie: currently a Third Year Computer Science student :computer: at
 - :floppy_disk: Database **MySQL, MariaDB, H2, Redis**
 - :computer: Desktop application development using **WPF on Windows or Qt on Linux**
 - :cloud: Cloud architecture using **AWS**
-- :construction: Programming languages **Java, C/C++, C#, Python, TypeScript, Rust, PHP**
+- :construction: Programming languages **Java, C/C++, C#, Python, TypeScript, PHP, Haskell, Rust**
 
 And many more :gift_heart:
