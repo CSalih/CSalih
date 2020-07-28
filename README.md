@@ -3,6 +3,14 @@
 **Hi guys** :wave:,  
 I'm Salih :bowtie: currently a Third Year Computer Science student :computer: at the University Innsbruck :school:. I loving to code in Java and currently exploring Rust.
 
+## Interests
+
+- :cyclone: Scientific Computing
+- :vhs: Embedded systems
+- :cloud: Cloud Computing
+-	:twisted_rightwards_arrows: Distributed systems
+- :ambulance: Medicle in general
+
 
 ## Technologies
 - :crystal_ball: Frontend development using **Angular, TypeScript, HTML and CSS with Bootstrap**
