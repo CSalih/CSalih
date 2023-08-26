@@ -1,23 +1,23 @@
+:wave: Hey there,  
 ![Header](https://raw.githubusercontent.com/CSalih/CSalih/master/img/header.png)
 
-**Hi guys** :wave:,  
-I'm Salih :bowtie: currently working as an backend Web Developer. I loving to code in Java and currently exploring Rust.
+## About Me
+
+I'm a passionate software developer with a knack for crafting robust solutions that power enterprises.
+I'm committed to continually improving, delivering efficient and scalable software daily.
+I have a deep passion for software architecture, considering it an essential element in building systems that withstand the test of time.
+
+My expertise spans a wide spectrum, from foundational languages like C, to dynamic typed languages like JavaScript, and my ongoing fascination with memory safety through Rust.
+With new technologies, I don't begin – I dive right in!
+
 
 ## Interests
 
-- :cyclone: Scientific Computing
-- :vhs: Embedded systems
-- :cloud: Cloud Computing
--	:twisted_rightwards_arrows: Distributed systems
-- :ambulance: Medicle in general
+My interests range from developing backends for websites to working on embedded systems; I thrive on tackling complex challenges.
 
-
-## Technologies
-- :crystal_ball: Frontend development using **Angular, Vue**
-- :satellite: Backend development using **Spring Framework, Laravel**
-- :floppy_disk: Database **MySQL, MariaDB, H2, Redis**
-- :computer: Desktop application development using **WPF, Qt**
-- :cloud: Cloud architecture using **AWS**
-- :construction: Programming languages **Java, C/C++, C#, Python, TypeScript, PHP, Haskell, Rust**
-
-And many more :gift_heart:
+- 🏗️ Software Architecture
+- 🌀 Scientific Computing
+- 📼 Embedded systems
+- ☁️ Cloud Computing
+-	🔀 Distributed systems
+- 🚑 Medicle in general
