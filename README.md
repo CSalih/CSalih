@@ -3,7 +3,7 @@
 
 ## About Me
 
-I'm a passionate software developer with a knack for crafting robust solutions that power enterprises.
+I'm a passionate software engineer with a knack for crafting robust solutions that power enterprises.
 I'm committed to continually improving, delivering efficient and scalable software daily.
 I have a deep passion for software architecture, considering it an essential element in building systems that withstand the changes of time.
 
